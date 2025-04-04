@@ -11,7 +11,8 @@ public class Main {
 //        System.out.println(ReverseInt.reverse(1534236469));
 //        int [][] arr = new int[][] {{1,3}, {2,2}};
 //        System.out.println(Arrays.toString(FindMissingAndRepeated.findMissingAndRepeated(arr)));
-        System.out.println(PalindromeNumber.isPalindrome(-121));
+//        System.out.println(PalindromeNumber.isPalindrome(-121));
+        System.out.println(LongestSubstring.lengthOfLongestSubstring("pwwkew"));
 
     }
 }
